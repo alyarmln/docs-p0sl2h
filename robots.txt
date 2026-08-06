@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-vpqwn3.yoursingles.online/sitemap.xml
